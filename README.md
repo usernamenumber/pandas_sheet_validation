@@ -4,4 +4,4 @@ Once upon a time I was asked to manually, as in just by eyeballing it, validate 
 
 Anyway, I'd been looking for opportunities to play around with data processing in [pandas](https://pandas.pydata.org/), and decided that taking this request to the next level would be a great way to do that. It's just a first pass, and I'll discuss things I would have done differently at the end, but I'm happy enough with the results to put them up here. 
 
-Enjoy!
+[Enjoy!](https://github.com/usernamenumber/pandas_sheet_validation/blob/main/SheetValidationWithPandas.ipynb)
